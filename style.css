@@ -4,7 +4,9 @@ background-color: #E1E8EB;
 }
 
 header {
-  background-color: beige;
+  background-color: hsl(200, 95%, 55%)
+
+;
   height: 150px;
 }
 h1 {
